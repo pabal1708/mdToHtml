@@ -22,7 +22,7 @@ Resumen esta aplicación permite convertir texto a Markdown y posee también un 
 
 
 #### Entrada de texto
-![Entrada de texto](https://hips.hearstapps.com/hmg-prod/public/input.pong "Imagen tomada de internet de un perrito")
+![Entrada de texto](https://github.com/pabal1708/mdToHtml/blob/master/public/input.PNG "output")
 
 #### Previsualización
-![Previsualización](https://hips.hearstapps.com/hmg-prod/images/lonely-pug-royalty-free-image-1652974264.jpg "Imagen tomada de internet de un perrito")
+![Previsualización](https://github.com/pabal1708/mdToHtml/blob/master/public/conversor.PNG "Input")
