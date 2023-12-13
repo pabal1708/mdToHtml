@@ -6,7 +6,7 @@ type DropdownType = {
 };
 
 const Dropdown = ({ addValue }: DropdownType) => {
-  const handleChange = (event: any) => {
+  const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     addValue(event.target.value);
   };
 
